@@ -2,7 +2,7 @@
 - 👀 I’m interested in code and bussines
 - 🌱 I’m currently learning javascript and laravel framework
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me MuhammadRidwanIlyasa
+- 📫 How to reach me MuhammadRidwanIlyasa@gmail.com
 
 <!---
 MRidwanIlyasa/MRidwanIlyasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
